@@ -1,9 +1,5 @@
 # 🐾 Zoo Animal Management System
 
-![C++](https://img.shields.io/badge/language-C%2B%2B-blue)
-![CLI App](https://img.shields.io/badge/type-CLI-green)
-![Status](https://img.shields.io/badge/status-stable-brightgreen)
-
 A command-line C++ application for managing animals in a zoo environment.  
 The system provides structured record management including validation, search, editing, prioritised feeding logic, and persistent storage.
 
